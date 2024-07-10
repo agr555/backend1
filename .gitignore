@@ -1,0 +1,6 @@
+ETC
+.env
+.idea
+npm.txt
+node_modules
+dist
